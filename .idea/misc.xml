@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/RestoranDegerlendirmeUygulamasi5/app/src/main/res/layout/activity_detail.xml" value="0.41938405797101447" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/RestoranDegerlendirmeUygulamasi5/app/src/main/res/layout/activity_favorites.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/RestoranDegerlendirmeUygulamasi5/app/src/main/res/layout/activity_login.xml" value="0.41938405797101447" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/RestoranDegerlendirmeUygulamasi5/app/src/main/res/layout/activity_main.xml" value="0.41938405797101447" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/RestoranDegerlendirmeUygulamasi5/app/src/main/res/layout/activity_register.xml" value="0.41938405797101447" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/RestoranDegerlendirmeUygulamasi5/app/src/main/res/layout/activity_splash.xml" value="0.41938405797101447" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/RestoranDegerlendirmeUygulamasi5/app/src/main/res/layout/restaurant_item.xml" value="0.14722222222222223" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

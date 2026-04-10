@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#6A1B9A</color> <!-- koyu mor -->
+    <color name="primaryLight">#E1BEE7</color> <!-- açık mor -->
+    <color name="buttonColor">#8E24AA</color> <!-- buton -->
+    <color name="white">#FFFFFF</color>
+    <color name="backgroundCream">#FDEEE0</color>
+    <color name="textBrown">#7B4F34</color>
+
+    <color name="buttonPink">#F4A8A1</color>
+    <color name="buttonPinkTrue">#DBC7A8</color>
+
+
+    <color name="purple_700">#3700B3</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+</resources>

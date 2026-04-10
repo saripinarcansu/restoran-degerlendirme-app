@@ -1,0 +1,52 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/backgroundCream"
+    android:padding="24dp">
+
+
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:hint="E-posta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/textBrown"
+        android:textColor="@color/textBrown"
+        android:textColorHint="@color/textBrown"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp" />
+
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:hint="Şifre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/textBrown"
+        android:textColor="@color/textBrown"
+        android:textColorHint="@color/textBrown"
+        android:padding="12dp"
+        android:layout_marginBottom="24dp"
+        android:inputType="textPassword" />
+
+
+    <Button
+        android:id="@+id/buttonLogin"
+        android:text="GİRİŞ YAP"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/buttonPink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/buttonRegisterGo"
+        android:text="KAYIT OL"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/buttonPink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
